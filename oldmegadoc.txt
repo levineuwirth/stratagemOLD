@@ -1,0 +1,160 @@
+Megadocument
+
+
+FIRST PLANET
+
+
+First Capital Terrain Effects
+
+Temperate: +15% growth on temperate and humid; -1 production on bay tiles surrounding arctic.
+
+Arid: +1 food to all arid tiles, but -1 production to all arctic.
+
+Arctic: +1 food to all arctic tiles, but -1 production to all arid. 
+
+Humid: +1 production to all arid tiles, but -1 food to all arctic.
+
+Elevated: +1 food to all elevated tiles. +1 adjacency from mountains. -1 food from all coastal tiles.
+
+Cannot form on polar.
+
+
+Terrain SuperTypes
+
+Temperate
+
+Humid
+
+Arid
+
+Arctic
+
+Elevated
+
+Wet
+
+
+Subtypes
+
+(Default tile is a 1 food 1 production)
+
+
+Temperate (without tech bonuses):
+
+Grassland (+1 food) 
+
+Plains 
+
+Small hills
+
+Large hills (+1 production, 1 MP)
+
+Forest  (+1 production, 1 MP)
+
+Floodplain (+2 food; -1 production)
+
+Lake (-1 production)
+
+Plains Coast
+
+Sandy Coast (no embarking penalty, +1 ducats)
+
+Mountain base (-1 food, + 1 production, 1 MP; must border elevated) 
+
+
+Humid
+
+Humid plains
+
+Lush hills (+1 production, 2 MP)
+
+Rainforest (+1 food, 1MP)
+
+Dense rainforest (+1 food, +1 production, 2 MP)
+
+Marsh (+2 food, -1 production, 1 MP)
+
+Swamp (+1 food, 1 MP)
+
+Tropical coast
+
+Tropical sandy coast (+1 ducats) 
+
+On boundary of elevated: small chance for a waterfall (2 MP; +3 ducats, +2 faith) 
+
+
+Arid (all -1 food, but higher natural strategical resource chance)
+
+
+Desert plains 
+
+Small hills (+1 production) 
+
+Large hills (+2 production, 1 MP)
+
+Desert greens (+1 food) 
+
+Desert mountain base (+2 production, 2 MP, must border elevated)
+
+Salt flat (no yields.)
+
+Desert lake coast (+2 food, -1 production) 
+
+Desert ocean coast (+1 food) 
+
+Miraculous coast (rare, +3 food, -1 production, +3 ducats, +2 faith)
+
+
+Arctic (all -1 food)
+
+Boreal Forest (+1 food, +1 production, 1 MP)
+
+Mega Forest (+1 food, +2 production, 2 MP, +1 faith)
+
+Chilled plains (-1 food)
+
+Small hills (+1 production) 
+
+Large hills (+2 production, 1 MP)
+
+Arctic mountain base (+2 production, 2 MP, must border elevated)
+
+Icy island (+2 ducats, no yields) 
+
+Icy coast (+2 faith)
+
+
+Elevated 
+
+Singular mountain (impassable; random chance of faith yields to adjacent tiles)
+
+Prominent mountain range (placed randomly within all other types of area: impassable, yields to all surrounding tiles of faith and 1 production)
+
+Elevated hills (-1 food, +2 production) 
+
+Elevated mountain Range (impassable; cannot construct mountain tunnels or fly/airlift
+
+over; high yields of faith and ducats)
+
+
+Any individual mountain whether in range or not can be a volcano: can erupt, but add +2 food adjacency bonus and additional high faith)
+
+
+Mountains should have heights and prominences and the top few can be named and give higher bonuses 
+
+
+Wet
+
+Coastal (1 food)
+
+Ocean (no yields. Impassable until tech) 
+
+Reef (+2 food, +1 faith, +3 ducats. Rare and small, can be destroyed by boats.)
+
+Atoll (singular tile island surrounded by reef: +1 food, +1 production, +5 faith +5 ducats)
+
+
+3-5 coastal water tiles (1 food) surrounding all land, the rest is ocean (no yields).
+
+
+MAP KNOWLEDGE
